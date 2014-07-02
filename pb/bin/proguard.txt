@@ -1,9 +1,0 @@
-# view AndroidManifest.xml #generated:16
--keep class com.example.pb.DisplayMessageActivity { <init>(...); }
-
-# view AndroidManifest.xml #generated:8
--keep class com.example.pb.MyActivity { <init>(...); }
-
-# onClick res/layout/main.xml #generated:13
--keepclassmembers class * { *** saveMessage(...); }
-

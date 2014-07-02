@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">pb</string>
-    <string name="edit_message">Enter a message</string>
-    <string name="welcome_message">Welcome to Pames\' Boutique</string>
-    <string name="button_save">Save</string>
-    <string name="activity_display_message">My Message</string>
-    <string name="title_activity_display_message">My Message</string>
-</resources>
